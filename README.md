@@ -22,14 +22,13 @@ Saturno, M-jey <br/>
 $ git clone https://github.com/JCharls1/CSEG_Pathfinding_Comparison.git
 ```
 
-<br/>
-
 **2. Open the folder in vs code**
 
 **3. run the python code**
 ```console 
 $ python main.py
 ```
+or
 ```console 
 $ python3 main.py
 ```

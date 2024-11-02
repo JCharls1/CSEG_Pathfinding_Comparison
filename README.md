@@ -58,6 +58,8 @@ $ pip3 install pygame
 
 ## The paths found by both algorithms.
 
+![screenshot](./Screenshots/Grid.png)<br/>
+
 ## The time taken for each algorithm.
 
 ## The lengths of the paths.

@@ -1,7 +1,7 @@
 # Programming Activity: Pathfinding Algorithms in Python
 <br/>
 
-## Presented by:
+## **Presented by:**
 
 Abayari, Rob Fritz <br/>
 De jesus, Michael Ivan <br/>
@@ -12,3 +12,13 @@ Guevarra, Shane Ashley <br/>
 Pantonia, John Carlo <br/>
 Salamat, Rolph <br/>
 Saturno, M-jey <br/>
+
+## Quick start <br/>
+
+**1. clone this repository**
+
+
+```console 
+$ git clone https://github.com/JCharls1/TicTacToe-MiniMax.git
+```
+

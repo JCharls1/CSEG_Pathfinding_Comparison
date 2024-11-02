@@ -1,7 +1,7 @@
-# Programming Activity: Pathfinding Algorithms in Python
+# 1. Programming Activity: Pathfinding Algorithms in Python
 <br/>
 
-## **Presented by:**
+## ** Presented by:**
 
 Abayari, Rob Fritz <br/>
 De jesus, Michael Ivan <br/>
@@ -54,9 +54,9 @@ $ pip3 install pygame
 
 ## 2.3 Description of your approach and any challenges faced.
 
-# Screenshots: Include screenshots of the output from your program showing:
+# 3. Screenshots: Include screenshots of the output from your program showing:
 
-## The paths found by both algorithms.
+## 3.1 The paths found by both algorithms.
 
 Grid<br/>
 
@@ -73,12 +73,12 @@ A*<br/>
 ![screenshot](./Screenshots/Astar_paths.png)<br/>
 
 
-## The time taken for each algorithm.
+## 3.2 The time taken for each algorithm.
 
 ![screenshot](./Screenshots/Efficiency_comparison.png)<br/>
 
 
-## The lengths of the paths.
+## 3.3 The lengths of the paths.
 
 
 ![screenshot](./Screenshots/path_quality.png)<br/>

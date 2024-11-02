@@ -58,8 +58,27 @@ $ pip3 install pygame
 
 ## The paths found by both algorithms.
 
+Grid<br/>
+
 ![screenshot](./Screenshots/Grid.png)<br/>
+
+Greedy
+![screenshot](./Screenshots/Greedy.png)<br/>
+
+![screenshot](./Screenshots/Greedy_paths.png)<br/>
+
+A*
+![screenshot](./Screenshots/Astar.png)<br/>
+
+![screenshot](./Screenshots/Astar_paths.png)<br/>
+
 
 ## The time taken for each algorithm.
 
+![screenshot](./Screenshots/Efficiency_comparison.png)<br/>
+
+
 ## The lengths of the paths.
+
+
+![screenshot](./Screenshots/path_quality.png)<br/>

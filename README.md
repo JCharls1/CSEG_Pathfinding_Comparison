@@ -62,12 +62,12 @@ Grid<br/>
 
 ![screenshot](./Screenshots/Grid.png)<br/>
 
-Greedy
+Greedy<br/>
 ![screenshot](./Screenshots/Greedy.png)<br/>
 
 ![screenshot](./Screenshots/Greedy_paths.png)<br/>
 
-A*
+A*<br/>
 ![screenshot](./Screenshots/Astar.png)<br/>
 
 ![screenshot](./Screenshots/Astar_paths.png)<br/>

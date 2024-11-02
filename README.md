@@ -13,7 +13,9 @@ Pantonia, John Carlo <br/>
 Salamat, Rolph <br/>
 Saturno, M-jey <br/>
 
-## How to run the code. <br/>
+## 2.1 Overview of the algorithms implemented.
+
+## 2.2 Instructions on how to run the code. <br/>
 
 **1. clone this repository**
 
@@ -33,4 +35,19 @@ or
 $ python3 main.py
 ```
 
+## Dependencies
 
+
+**pygame**<br/>
+- https://pypi.org/project/pygame/
+
+
+```console 
+$ pip install pygame
+```
+
+or
+
+```console 
+$ pip3 install pygame
+```

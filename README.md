@@ -13,12 +13,25 @@ Pantonia, John Carlo <br/>
 Salamat, Rolph <br/>
 Saturno, M-jey <br/>
 
-## Quick start <br/>
+## How to run the code. <br/>
 
 **1. clone this repository**
 
 
 ```console 
-$ git clone https://github.com/JCharls1/TicTacToe-MiniMax.git
+$ git clone https://github.com/JCharls1/CSEG_Pathfinding_Comparison.git
 ```
+
+<br/>
+
+**2. Open the folder in vs code**
+
+**3. run the python code**
+```console 
+$ python main.py
+```
+```console 
+$ python3 main.py
+```
+
 

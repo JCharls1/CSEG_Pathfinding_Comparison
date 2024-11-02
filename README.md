@@ -51,3 +51,13 @@ or
 ```console 
 $ pip3 install pygame
 ```
+
+## 2.3 Description of your approach and any challenges faced.
+
+# Screenshots: Include screenshots of the output from your program showing:
+
+## The paths found by both algorithms.
+
+## The time taken for each algorithm.
+
+## The lengths of the paths.

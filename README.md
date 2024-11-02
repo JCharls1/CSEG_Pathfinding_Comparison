@@ -1,6 +1,7 @@
 # Programming Activity: Pathfinding Algorithms in Python
 <br/>
 ## Presented by:
+
 Abayari, Rob Fritz <br/>
 De jesus, Michael Ivan <br/>
 Duhaylungsod, Kyziah Mae <br/>

@@ -43,7 +43,10 @@ $ python3 src/main.py
 <br/>
 - https://www.python.org/ 
 <br/>
-**pygame**<br/>
+
+**pygame**
+
+<br/>
 - https://pypi.org/project/pygame/
 
 

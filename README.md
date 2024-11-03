@@ -38,7 +38,9 @@ $ python3 src/main.py
 ## Dependencies
 
 
-**python** <br/>
+**python** 
+
+<br/>
 - https://www.python.org/ 
 <br/>
 **pygame**<br/>

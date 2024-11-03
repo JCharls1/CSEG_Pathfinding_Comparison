@@ -1,7 +1,7 @@
 # 1. Programming Activity: Pathfinding Algorithms in Python
 <br/>
 
-## ** Presented by:**
+## **Presented by:**
 
 Abayari, Rob Fritz <br/>
 De jesus, Michael Ivan <br/>
@@ -38,6 +38,9 @@ $ python3 src/main.py
 ## Dependencies
 
 
+**python** <br/>
+- https://www.python.org/ 
+<br/>
 **pygame**<br/>
 - https://pypi.org/project/pygame/
 

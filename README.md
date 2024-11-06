@@ -1,5 +1,4 @@
 # 1. Programming Activity: Pathfinding Algorithms in Python
-<br/>
 
 ## **Presented by:**
 

@@ -1,12 +1,3 @@
-# Contents
-1. [Programming Activity: Pathfinding Algorithms in Python](#programming-activity-pathfinding-algorithms-in-python)
-   - [Overview of the algorithms implemented](#21-overview-of-the-algorithms-implemented)
-   - [Instructions on how to run the code](#22-instructions-on-how-to-run-the-code)
-   - [Description of your approach and any challenges faced](#23-description-of-your-approach-and-any-challenges-faced)
-2. [Screenshots](#3-screenshots)
-   - [Paths found by both algorithms](#31-the-paths-found-by-both-algorithms)
-   - [Time taken for each algorithm](#32-the-time-taken-for-each-algorithm)
-   - [Lengths of the paths](#33-the-lengths-of-the-paths)
 
 
 # 1. Programming Activity: Pathfinding Algorithms in Python
@@ -22,6 +13,18 @@ Guevarra, Shane Ashley <br/>
 Pantonia, John Carlo <br/>
 Salamat, Rolph <br/>
 Saturno, M-jey <br/>
+
+
+# Contents
+1. [Programming Activity: Pathfinding Algorithms in Python](#programming-activity-pathfinding-algorithms-in-python)
+   - [Overview of the algorithms implemented](#21-overview-of-the-algorithms-implemented)
+   - [Instructions on how to run the code](#22-instructions-on-how-to-run-the-code)
+   - [Description of your approach and any challenges faced](#23-description-of-your-approach-and-any-challenges-faced)
+2. [Screenshots](#3-screenshots)
+   - [Paths found by both algorithms](#31-the-paths-found-by-both-algorithms)
+   - [Time taken for each algorithm](#32-the-time-taken-for-each-algorithm)
+   - [Lengths of the paths](#33-the-lengths-of-the-paths)
+
 
 ## 2.1 Overview of the algorithms implemented.
 

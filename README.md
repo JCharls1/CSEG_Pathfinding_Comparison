@@ -67,6 +67,10 @@ $ pip3 install pygame
 
 ## 2.3 Description of your approach and any challenges faced.
 
+This implementation efficiently finds the shortest path by focusing on cells with the lowest total estimated path cost, minimizing unnecessary exploration and improving speed. It also offers visualization to make the search progress easy to follow, especially for learning or debugging purposes.<br/>
+
+Our main challenge is how we can visualize the algorithms and where to put the functionality without costing us the efficiency of the algorithm.
+
 # 3. Screenshots: Include screenshots of the output from your program showing:
 
 ## 3.1 The paths found by both algorithms.

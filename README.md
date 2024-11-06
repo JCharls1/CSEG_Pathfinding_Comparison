@@ -15,11 +15,11 @@ Saturno, M-jey <br/>
 
 ## 2.1 Overview of the algorithms implemented.
 
-** Greedy Best-First Search Algorithm **
+**Greedy Best-First Search Algorithm**
 
 The Greedy Best-First Search algorithm is a pathfinding algorithm that aims to find the shortest path by exploring the most promising nodes first, based solely on a heuristic estimate to the goal.
 
-** A* Algorithm **
+**A* Algorithm**
 
 The A* algorithm is a pathfinding and graph traversal algorithm that finds the shortest path between two points. It is widely used in games, navigation systems, and AI applications due to its efficiency in finding paths in complex environments.<br/>
 

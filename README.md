@@ -17,16 +17,16 @@ Saturno, M-jey <br/>
 
 # Contents
 1. [Programming Activity: Pathfinding Algorithms in Python](#programming-activity-pathfinding-algorithms-in-python)
-   - 2.1 [Overview of the algorithms implemented](#21-overview-of-the-algorithms-implemented)
-   - 2.2 [Instructions on how to run the code](#22-instructions-on-how-to-run-the-code-)
-   - 2.3 [Description of your approach and any challenges faced](#23-description-of-your-approach-and-any-challenges-faced)
+2. [Overview of the algorithms implemented](#21-overview-of-the-algorithms-implemented)
+   - 2.1 [Instructions on how to run the code](#22-instructions-on-how-to-run-the-code-)
+   - 2.2 [Description of your approach and any challenges faced](#23-description-of-your-approach-and-any-challenges-faced)
 3. [Screenshots](#3-screenshots-include-screenshots-of-the-output-from-your-program-showing)
    - 3.1 [Paths found by both algorithms](#31-the-paths-found-by-both-algorithms)
    - 3.2 [Time taken for each algorithm](#32-the-time-taken-for-each-algorithm)
    - 3.3 [Lengths of the paths](#33-the-lengths-of-the-paths)
 
 
-## 2.1 Overview of the algorithms implemented.
+## 2 Overview of the algorithms implemented.
 
 **Greedy Best-First Search Algorithm**
 
@@ -36,7 +36,7 @@ The Greedy Best-First Search algorithm is a pathfinding algorithm that aims to f
 
 The A* algorithm is a pathfinding and graph traversal algorithm that finds the shortest path between two points. It is widely used in games, navigation systems, and AI applications due to its efficiency in finding paths in complex environments.<br/>
 
-## 2.2 Instructions on how to run the code. <br/>
+## 2.1 Instructions on how to run the code. <br/>
 
 **1. clone this repository**
 
@@ -78,7 +78,7 @@ or
 $ pip3 install pygame
 ```
 
-## 2.3 Description of your approach and any challenges faced.
+## 2.2 Description of your approach and any challenges faced.
 
 This implementation efficiently finds the shortest path by focusing on cells with the lowest total estimated path cost, minimizing unnecessary exploration and improving speed. It also offers visualization to make the search progress easy to follow, especially for learning or debugging purposes.<br/>
 

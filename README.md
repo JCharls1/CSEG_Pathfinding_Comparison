@@ -26,7 +26,7 @@ Saturno, M-jey <br/>
    - 3.3 [Lengths of the paths](#33-the-lengths-of-the-paths)
 
 
-## 2 Overview of the algorithms implemented.
+## 2. Overview of the algorithms implemented.
 
 **Greedy Best-First Search Algorithm**
 

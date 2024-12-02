@@ -49,11 +49,11 @@ $ git clone https://github.com/JCharls1/CSEG_Pathfinding_Comparison.git
 
 **3. run the python code**
 ```console 
-$ python src/main.py
+$ python main.py
 ```
 or
 ```console 
-$ python3 src/main.py
+$ python3 main.py
 ```
 
 ## Dependencies
